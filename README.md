@@ -1,4 +1,9 @@
 # vue-canvas-example-1
+> This effect created by globalCompositeOperation property
+
+## Demo
+
+[surge.sh](http://vue-canvas-example-1.surge.sh/)
 
 ## Project setup
 ```
