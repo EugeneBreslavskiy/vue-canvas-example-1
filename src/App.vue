@@ -1,18 +1,15 @@
 <template>
     <div id="app">
-        <AppCursor/>
         <Hero/>
     </div>
 </template>
 
 <script>
-import AppCursor from './components/AppCursor.vue'
 import Hero from './components/Hero.vue'
 
 export default {
     name: 'App',
     components: {
-        AppCursor,
         Hero
     }
 }
